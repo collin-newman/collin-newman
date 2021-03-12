@@ -30,5 +30,6 @@ Outside of coding I enjoy:
 <code><img height="50" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
 <br><br>
 
