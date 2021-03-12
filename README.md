@@ -32,3 +32,4 @@ Outside of coding I enjoy:
 <br><br>
 
 <b>Add value to the world and the world will add value to you.</b>
+<h2>Connect with me on LinkedIn!</h2>
