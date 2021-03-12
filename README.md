@@ -3,8 +3,9 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif" />
 
-I'm a....
+My names Collin and I'm a....
 - ⚓️ US Navy Veteran
+- ⚡️ Prior electrician.
 - 🧑‍💻 Avid Coder
 
 Outside of coding I enjoy:
