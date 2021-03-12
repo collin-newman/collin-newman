@@ -12,6 +12,7 @@ Outside of coding I enjoy:
 - 🏂 Snowboarding
 - 🏋️ Going to the gym
 - ⛵️ Sailing, I own a little Erickson 23 MK 2
+- 📷 <a href="https://vsco.co/collins-canon/gallery">Photography</a>
 
 
 - <code><b>Add value to the world and the world will add value to you.</b></code>
