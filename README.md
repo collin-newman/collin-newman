@@ -3,6 +3,7 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif" />
 
+I'm a....
 - ⚓️ US Navy Veteran
 - 🧑‍💻 Avid Coder
 
