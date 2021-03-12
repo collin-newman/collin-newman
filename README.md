@@ -14,7 +14,7 @@ Outside of coding I enjoy:
 - ⛵️   Sailing, I own a little Erickson 23 MK 2
 - 📷   <a href="https://vsco.co/collins-canon/gallery">Photography</a>
 
-I also love investing, lets talk
+I also have a passion for investing in:
 - 📈 Stock
 - 📄 Options
 - 🏠 Real Estate
