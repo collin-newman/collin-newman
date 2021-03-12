@@ -1,9 +1,7 @@
-# Hello!
+# Hello and welcome to my GitHub!
 ---
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif" />
-
-### I'm Collin Newman
 
 - ⚓️ US Navy Veteran
 - 🧑‍💻 Avid Coder
