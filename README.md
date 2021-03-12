@@ -32,4 +32,4 @@ Outside of coding I enjoy:
 <br><br>
 
 <b>Add value to the world and the world will add value to you.</b>
-<h2>Connect with me on LinkedIn!</h2>
+<h2>Connect with me on <a href="https://www.linkedin.com/in/collin-newman-43aa6b112/">LinkedIn!</a></h2>
