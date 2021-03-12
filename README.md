@@ -1,16 +1,32 @@
-### Hi there 👋
+# Hello!
+---
 
-<!--
-**collin-newman/collin-newman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="GIF" src="https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif" />
 
-Here are some ideas to get you started:
+### I'm Collin Newman
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚓️ US Navy Veteran
+- 🧑‍💻 Avid Coder
+
+Outside of coding I enjoy:
+- 🏂 Snowboarding
+- 🏋️ Going to the gym
+- ⛵️ Sailing, I own a little Erickson 23 MK 2
+
+
+- <code><b>Add value to the world and the world will add value to you.</b></code>
+ 
+
+### Languages and Tools:
+
+<code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code> 
+<code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code> 
+<code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code> 
+<code><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code> 
+<code><img height="50" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code> 
+<code><img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg"></code>
+<br><br>
+
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends</b> so if you want to say <b>Say hello, let's talk code!</b> 😊</em>
