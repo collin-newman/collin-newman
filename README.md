@@ -13,9 +13,6 @@ Outside of coding I enjoy:
 - 🏋️   Going to the gym
 - ⛵️   Sailing, I own a little Erickson 23 MK 2
 - 📷   <a href="https://vsco.co/collins-canon/gallery">Photography</a>
-
-
-- <code><b>Add value to the world and the world will add value to you.</b></code>
  
 
 ### Languages and Tools:
@@ -34,3 +31,4 @@ Outside of coding I enjoy:
 <code><img height="50" src="https://www.vectorlogo.zone/logos/npmjs/npmjs-ar21.svg"></code>
 <br><br>
 
+<b>Add value to the world and the world will add value to you.</b>
