@@ -32,5 +32,3 @@ Outside of coding I enjoy:
 <code><img height="50" src="https://www.vectorlogo.zone/logos/circleci/circleci-ar21.svg"></code>
 <br><br>
 
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love to make friends</b> so if you want to say <b>Say hello, let's talk code!</b> 😊</em>
