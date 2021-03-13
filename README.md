@@ -19,12 +19,6 @@ I also have a passion for investing in:
 - 📄 Options
 - 🏠 Real Estate
 
-How did I get here?
-I've always been a software engineer at heart, I was 
-
-<img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
-
-
 ### Languages and Tools:
 
 <code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
