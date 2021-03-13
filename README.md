@@ -1,7 +1,7 @@
 # Hello and welcome to my GitHub!
 ---
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/eCqFYAVjjDksg/giphy.gif" />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 
 My names Collin and I'm a....
 - ⚓️ US Navy Veteran
