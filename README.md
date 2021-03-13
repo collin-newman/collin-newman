@@ -6,7 +6,7 @@
 My names Collin and I'm a....
 - ⚓️ US Navy Veteran
 - ⚡️ Prior electrician.
-- 🧑‍💻 Avid Coder
+- 🧑‍💻 Avid Software Engineer
 
 Outside of coding I enjoy:
 - 🏂   Snowboarding
@@ -18,6 +18,13 @@ I also have a passion for investing in:
 - 📈 Stock
 - 📄 Options
 - 🏠 Real Estate
+
+How did I get here?
+I've always been a software engineer at heart, I was 
+
+<img herf='https://i.imgur.com/k0zS9eh_d.webp?maxwidth=760&fidelity=grand'/>
+
+
 
 ### Languages and Tools:
 
