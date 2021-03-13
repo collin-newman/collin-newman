@@ -22,8 +22,7 @@ I also have a passion for investing in:
 How did I get here?
 I've always been a software engineer at heart, I was 
 
-<img herf='https://i.imgur.com/k0zS9eh_d.webp?maxwidth=760&fidelity=grand'/>
-
+<img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
 
 
 ### Languages and Tools:
