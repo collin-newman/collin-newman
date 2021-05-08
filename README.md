@@ -11,8 +11,8 @@ My names Collin and I'm a....
 Outside of coding I enjoy:
 - 🏂   Snowboarding
 - 🏋️   Going to the gym
-- ⛵️   Sailing, I own a little <a href="https://i.imgur.com/eu59Eqr.jpg">Erickson 23 MK 2</a>
-- 📷   <a href="https://vsco.co/collins-canon/gallery">Photography</a>
+- ⛵️   Sailing, I own a little <a target="_blank" href="https://i.imgur.com/eu59Eqr.jpg">Erickson 23 MK 2</a>
+- 📷   <a target="_blank" href="https://vsco.co/collins-canon/gallery">Photography</a>
 
 I also have a passion for investing in:
 - 📈 Stock
