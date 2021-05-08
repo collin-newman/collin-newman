@@ -6,7 +6,7 @@
 My names Collin and I'm a....
 - ⚓️ US Navy Veteran
 - ⚡️ Prior electrician.
-- 🧑‍💻 Avid Software Engineer
+- 🧑‍💻 Full Stack Software Engineer
 
 Outside of coding I enjoy:
 - 🏂   Snowboarding
