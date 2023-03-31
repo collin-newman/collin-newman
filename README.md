@@ -39,3 +39,6 @@ I also have a passion for investing in:
 
 <b>"Add value to the world and the world will add value to you."</b>
 <h2>Connect with me on <a href="https://www.linkedin.com/in/collin-newman-43aa6b112/">LinkedIn!</a></h2>
+
+
+(I still code daily, I just use use azure instead of github at work now!)
