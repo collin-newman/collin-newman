@@ -3,21 +3,16 @@
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" />
 
-My names Collin and I'm a....
+My name's Collin and I'm a....
 - ⚓️ US Navy Veteran
-- ⚡️ Prior electrician.
 - 🧑‍💻 Full Stack Software Engineer
 
-Outside of coding I enjoy:
+Outside of coding, I enjoy:
 - 🏂   Snowboarding
 - 🏋️   Going to the gym
 - ⛵️   Sailing, I ~~own~~ owned a little <a target="_blank" href="https://i.imgur.com/eu59Eqr.jpg">Erickson 23 MK 2</a>
+- ⛳️ Golfing
 - 📷   <a target="_blank" href="https://vsco.co/collins-canon/gallery">Photography</a>
-
-I also have a passion for investing in:
-- 📈 Stock
-- 📄 Options
-- 🏠 Real Estate
 
 ### Languages and Tools:
 
